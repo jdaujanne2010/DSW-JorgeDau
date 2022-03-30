@@ -1,0 +1,26 @@
+header{
+    background-color: #22577E;
+    color: azure;
+    padding: 20px;
+}
+nav{
+   background-color: antiquewhite;
+}
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+article{
+    background-color: aqua;
+    grid-column: 1/4;
+}
+aside{
+    background-color: beige;
+    padding: 30px;
+    grid-column: 4/5;
+}
+footer{
+    background-color: #95D1CC;
+    color: black;
+        padding: 20px;
+}
