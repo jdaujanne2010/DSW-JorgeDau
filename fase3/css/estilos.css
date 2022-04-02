@@ -1,7 +1,11 @@
 header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     background-color: #22577E;
     color: azure;
     padding: 20px;
+    color: aliceblue;
 }
 nav{
    background-color: antiquewhite;
@@ -23,4 +27,11 @@ footer{
     background-color: #95D1CC;
     color: black;
         padding: 20px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
 }
