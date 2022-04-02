@@ -17,6 +17,7 @@ section{
 article{
     background-color: aqua;
     grid-column: 1/4;
+    
 }
 aside{
     background-color: beige;
